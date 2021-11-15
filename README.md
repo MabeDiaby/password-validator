@@ -1,6 +1,6 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# SEIR 712, August 10, 2021 
+# SEIR 1018 | November 18, 2021 
 
 # React Password Validator
 
@@ -14,15 +14,14 @@ component.
 - Components, state, and props
 
 ## Instructions
-- Create a new React app. Create a subdirectory called Components in SRC and create a file called Validator.jsx inside of it.
+- Create a new React app. Create a subdirectory called `components` in `src`.
 
 
-- Inside of this repo there is a Validator jsx and css file, copy those into your newly created files, and complete the requirements listed below
+- Inside of this repo's `src` folder, not the one inside your newly created app, there is a `Validator.js` and a `Validator.css` file. Copy those into your `compnents` folder and complete the requirements listed below
 
 ## Requirements
 
-Take the existing markup rendered from the `Validator` component in
-[`src/Validator.js`](src/Validator.js) and change into a fully functioning
+Take the existing markup rendered from the `Validator.js` component you just copied and change into a fully functioning
 component. 
 
 ## Steps

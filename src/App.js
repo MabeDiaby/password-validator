@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Validator from "./Validator";
+import Validator from "./components/Validator";
 
 function App () {
     return(

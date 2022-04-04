@@ -16,7 +16,7 @@ button + button {
 }
 
 button:focus {
-  box-shadow: 0 0 5px#1e90ff;
+  box-shadow: 0 0 5px#bcc2c8;
   outline: none;
 }
 
